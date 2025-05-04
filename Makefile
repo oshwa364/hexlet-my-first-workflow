@@ -1,2 +1,2 @@
 say-hello
-	Hello, world!
+	echo Hello, world!
